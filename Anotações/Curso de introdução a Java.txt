@@ -1,0 +1,36 @@
+Fundamentos da linguagem java
+
+a linguagem java é composta por um conjunto bem definido de funcionalidades(features) 
+
+explorar cada uma dessas features, é pra ser simples comparada a outras linguagens anteriores, pq tem que funcionar em dipositivos eletroicos
+ 
+
+- orientada a objeto
+ java é uma linguagem de POO. Isso significa que tudo em java é escrito em classes e objetos
+
+Os pilares da POO são
+1.Classe e objeto
+2.Encapsulamento
+3.Abstração
+4.Herança
+5.Polimorfismo
+
+é uma plataforma independente
+o codigo fonte java é compilado para bytecode
+é robusta, o que significa que é capaz de lidar com o encerramento inesperado de um programa
+- ele usa um gerenciamento de memoria forte
+- java fornece coleta de lixo automática
+
+os programas java são compilados para gerar arquivos de bytecode e a JVM interpreta o arquivo de bytecode durante a execução
+
+
+Java e sua história
+
+se chamou primeiramente de oak
+inspirado numa cidade local
+surrgiu nos anos 90
+Sun
+
+usados em praticamente tudo
+25 anos de existencia 
+
