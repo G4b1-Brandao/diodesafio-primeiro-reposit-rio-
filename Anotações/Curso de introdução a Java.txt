@@ -34,3 +34,59 @@ Sun
 usados em praticamente tudo
 25 anos de existencia 
 
+=>Escolhendo a IDE
+Ambiente de desenvolvimento integrado
+- acelera nossa escrita
+- analise de erro e sintexe
+- compilação de programa
+- depuração(acompanhamento) de execuçã do programa
+
+cada ide dispõe de recursos comuns ou plugins especificos para te auxiliar na agilidade de desenvolvimento 
+Existem varias opções disponiveis no mercado: O elpsise, o intelliJ, o vscode,netbeans.
+
+=>Configurando o ambiente 
+Para começar a desenvolver em java é necessario que tenhamos o JDK instalado 
+
+=>Sintaxe Java
+ Anatomia da classe
+estrutura inicial
+
+pulic class MinhaClass{
+     //seu código aq
+}
+
+ex:public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
+
+- Metodo principal:main
+ public static void main(String[] args) 
+estrutura 
+
+classe system para input e output
+
+Padrão de nomeclatura
+- Todo arquivo.java deve começar com letra MAIUSCULA.
+- A classe deve possuir o mesmo nome do arquivo 
+- toda variavel deve ser escrita com letra minuscula,porém se a palavra for composta, a primeira letra da segunda palavra devera ser maiuscula 
+-  Ao escrever "final " antes de declarar uma variavel quer dizer que ela não podera mudar ao longo do programa 
+ex: final string BR = "Brasil";
+
+Declarando variaveis e metodos
+- estrutura
+Tipo Nomebemdefinido = atribuição;
+ex: int idade = 23;
+double altura = 1.53;
+Dog spike;
+
+- Declarando metodos em java
+//estrutura
+TipoRetorno NomeObjetivoNoInfinitvo Paremetro(S)
+ex: int somar (int numeroUm, int numeroDois)
+
+Identação: é um termo utilizado para escrever o codigo do programa de forma hierarquica, facilitando assim a vizualização e o entendimento do programa
+
+Organizando arquivos atraves de pacotes(packages)
+
